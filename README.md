@@ -144,29 +144,32 @@ Make sure you have installed:
 - Postman (Optional for testing)
 
 ---
-1. Clone repository
 
+1. Clone Repository
+
+```bash
 git clone <repository-url>
+```
 
-2. Navigate to backend folder
+2. Navigate to Backend Folder
 
+```bash
 cd <repository-folder>/backend
+```
 
-3. Install dependencies
+3. Install Dependencies
 
+```bash
 npm install
+```
 
-4. Setup Environment variables
+4. Setup Environment Variables
 
-A `.env.sample` file is provided in the backend folder.
-
+A `.env.sample` file is provided in the backend folder.  
 Create a `.env` file from `.env.sample` and update the required environment variables.
 
-5. Run the server
+5. Run the Server
 
+```bash
 npm start
-
-
-
-
-
+```

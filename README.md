@@ -173,3 +173,15 @@ Create a `.env` file from `.env.sample` and update the required environment vari
 ```bash
 npm start
 ```
+
+## API Documentation
+
+This project provides REST APIs for managing financial records with role-based access control.
+
+Postman Collection is available in the file:
+
+- finance-dashboard.postman_collection.json
+
+Import these file into Postman to test all endpoints.
+
+---

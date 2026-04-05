@@ -47,13 +47,14 @@ This backend is built using Node.js, Express, and MongoDB.
 - MongoDB
 
 ## Folder Structure
-controllers/
-models/
-routes/
-middlewares/
-validators/
-sample_data/
-index.js
+backend/  
+├── controllers/  
+├── models/  
+├── routes/  
+├── middlewares/  
+├── validators/  
+├── sample_data/  
+└── index.js
 
 ## API Endpoints
 
@@ -164,6 +165,7 @@ Create a `.env` file from `.env.sample` and update the required environment vari
 5. Run the server
 
 npm start
+
 
 
 
